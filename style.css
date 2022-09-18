@@ -9,7 +9,8 @@ body {
   user-select: none;
 }
 
-.tekst {
+.tekst,
+.tekst2 {
   font-size: 6rem;
   font-family: arial;
   color: white;
@@ -17,4 +18,8 @@ body {
   position: absolute;
   right: 10%;
   top: 20%;
+}
+
+.tekst2 {
+  top: 40%;
 }
